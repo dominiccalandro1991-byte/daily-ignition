@@ -1,0 +1,9 @@
+{
+  "name": "Daily Ignition",
+  "short_name": "Ignition",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0e14",
+  "theme_color": "#0b0e14",
+  "icons": [{ "src": "icon.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any" }]
+}
