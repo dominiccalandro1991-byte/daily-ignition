@@ -1,0 +1,17 @@
+{
+  "repo": "dominiccalandro1991-byte/daily-ignition",
+  "incomplete": false,
+  "missing_dependencies": [],
+  "required_build_specs": [],
+  "file_count": 8,
+  "root_entries": [
+    ".github",
+    "README.md",
+    "daily-ignition.html",
+    "icon.svg",
+    "index.html",
+    "manifest.json",
+    "media",
+    "sw.js"
+  ]
+}
